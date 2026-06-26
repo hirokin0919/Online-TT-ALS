@@ -37,7 +37,7 @@ To reproduce the results for a specific experiment (e.g., the grayscale video ev
 
 ## Requirements
 
-This codebase is written in **Julia** (tested on v1.11.x).
+This codebase is written in **Julia** (tested on v1.11.5).
 
 ### 1. Julia Dependencies
 Please install the required external Julia packages before running the notebooks. You can install them all at once via the Julia REPL (press `]` to enter the Pkg prompt):
